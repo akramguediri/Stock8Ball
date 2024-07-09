@@ -1,0 +1,35 @@
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore environment folder (if using virtual environments)
+venv/
+env/
+*.env
+
+# Ignore local configuration files
+config.json
+*.yaml
+*.yml
+
+# Ignore system and temporary files
+.DS_Store
+*.log
+*.csv
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore model files and large data files
+*.h5
+*.gz
+*.pkl
+
+# Ignore generated files
+predictions.csv
+predictions_plot.png
+
+# Ignore any other sensitive or unnecessary files
