@@ -1,4 +1,3 @@
-# Stock8Ball
 ```plaintext
         ____
     ,dP9CGG88@   ______    _                  __         ____    ______           __   __   
